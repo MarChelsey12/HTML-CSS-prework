@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://img.besthqwallpapers.com/Uploads/22-2-2020/122788/retro-texture-with-flowers-black-background-with-flowers-peonies-texture-retro-floral-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#white_background{
+    background-color:floralwhite;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 80%;
+    Height: 100%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+#me{
+    list-style-type:none;
+}
+
+footer{
+    background-color:rgb(17, 17, 17);
+    text-align: center;
+    color: dimgrey;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+img{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-top: 2%;
+}
